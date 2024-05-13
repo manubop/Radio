@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Radio": {
+      "commandName": "Project",
+      "commandLineArgs": "http://nova-vnt.ice.infomaniak.ch/nova-vnt-256.aac"
+    }
+  }
+}
